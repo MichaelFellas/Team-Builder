@@ -83,7 +83,7 @@ This project was tested in VCS terminal using the jest testing suite, tests can 
 5. Bootstrap
 
 ## Screenshot
-![App-Screenshot](./App/Assets/Images/app-Ss.png)
+![App-Screenshot](./App/Assets/Images/app-ss.png)
 
 ## Video Demo
 [Video-Demo](https://drive.google.com/file/d/1J4i99ERk_jEZuPEWtoJd2HiSQThFhowE/view?usp=sharing)
