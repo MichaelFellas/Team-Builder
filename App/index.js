@@ -8,14 +8,6 @@ const managers = [];
 const engineers = [];
 const interns = [];
 
-
-
-//TO DO
-
-//VIDEO
-//SUBMIT
-
-
 const questionsManager = [
     {
         type: 'input',
