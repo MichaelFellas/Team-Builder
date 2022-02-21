@@ -1,4 +1,4 @@
-const Employee = require('./Employee');
+const Employee = require('./employee');
 
 class Manager extends Employee {
 
@@ -13,10 +13,12 @@ class Manager extends Employee {
         return "Manager";
     }
 
+    getOfficeNumber(){
+        return this.officeNumber;
+    }
+
+
 }
 
 module.exports = Manager;
 
-// const grace = new Manager('Grace', 30, "GraceTame@gmail.com", 20);
-
-// console.log(grace.officeNumber);
